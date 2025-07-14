@@ -23,18 +23,18 @@ const posts = [
     tags: ["Umum", "Explore"]
   },
   {
-    title: "Belajar HTML & CSS",
+    title: "Gunung Canggah",
     date: "13 Juli 2025",
-    content: "HTML dan CSS adalah dasar dari website.",
-    image: "https://picsum.photos/800/300?random=2",
-    tags: ["HTML", "CSS", "Pemula"]
+    content: "Pegunungan yang ada di subang.",
+    image: "images/Canggah.JPG",
+    tags: ["Subang", "Explore", "Pemula"]
   },
   {
-    title: "Belajar JavaScript Dasar",
+    title: "Gunung Rinjani",
     date: "12 Juli 2025",
-    content: "Gunakan JavaScript untuk membuat situs interaktif.",
-    image: "https://picsum.photos/800/300?random=3",
-    tags: ["JavaScript", "Interaktif"]
+    content: "Rinjani gunung terindah di Jawa Timur",
+    image: "images/Gunung_rinjani.jpg",
+    tags: ["Rinjani", "Tertingi"]
   }
 ];
 
